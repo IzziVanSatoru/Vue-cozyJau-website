@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "esnext",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "lib": ["dom", "es2015"],
+    "jsx": "preserve",
+    "types": ["three"]
+  },
+  "include": ["src/**/*"]
+}
